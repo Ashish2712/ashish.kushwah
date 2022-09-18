@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ashish.kushwah/static/css/main.603ab264.css",
+    "main.js": "/ashish.kushwah/static/js/main.776d9742.js",
+    "static/js/787.67b99310.chunk.js": "/ashish.kushwah/static/js/787.67b99310.chunk.js",
+    "static/media/Resume-Ashish-Singh-Kushwah.pdf": "/ashish.kushwah/static/media/Resume-Ashish-Singh-Kushwah.01706b7b9562bc435757.pdf",
+    "static/media/logo-s.png": "/ashish.kushwah/static/media/logo-s.27bfaec970dfc035b0fb.png",
+    "static/media/helvetica-neu.ttf": "/ashish.kushwah/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/ashish.kushwah/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/logo_sub.png": "/ashish.kushwah/static/media/logo_sub.89c3ef533cd6272a4daa.png",
+    "static/media/LaBelleAurore.woff2": "/ashish.kushwah/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff": "/ashish.kushwah/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/ashish.kushwah/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/ashish.kushwah/index.html",
+    "main.603ab264.css.map": "/ashish.kushwah/static/css/main.603ab264.css.map",
+    "main.776d9742.js.map": "/ashish.kushwah/static/js/main.776d9742.js.map",
+    "787.67b99310.chunk.js.map": "/ashish.kushwah/static/js/787.67b99310.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.603ab264.css",
+    "static/js/main.776d9742.js"
+  ]
+}
